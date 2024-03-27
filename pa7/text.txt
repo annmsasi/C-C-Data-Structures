@@ -1,0 +1,235 @@
+
+A.size() = 26
+ambusher : 2
+cantling : 23
+cohabit : 21
+crosby : 3
+cul : 14
+depressants : 13
+deschooler : 18
+dissocialised : 20
+forms : 8
+glagolitic : 26
+glamorized : 24
+hemiolia : 22
+impales : 9
+millesimal : 25
+norm : 16
+pardoner : 5
+pic : 10
+plaices : 1
+potables : 15
+pythons : 6
+recoining : 19
+recriminator : 12
+reinsurer : 17
+second : 7
+verticals : 11
+wattles : 4
+
+B.size() = 26
+ambusher : 2
+cantling : 23
+cohabit : 21
+crosby : 3
+cul : 14
+depressants : 13
+deschooler : 18
+dissocialised : 20
+forms : 8
+glagolitic : 26
+glamorized : 24
+hemiolia : 22
+impales : 9
+millesimal : 25
+norm : 16
+pardoner : 5
+pic : 10
+plaices : 1
+potables : 15
+pythons : 6
+recoining : 19
+recriminator : 12
+reinsurer : 17
+second : 7
+verticals : 11
+wattles : 4
+
+B.size() = 26
+ambusher : 105
+cantling : 23
+cohabit : 21
+crosby : 3
+cul : 104
+depressants : 13
+deschooler : 101
+dissocialised : 20
+forms : 8
+glagolitic : 103
+glamorized : 24
+hemiolia : 22
+impales : 9
+millesimal : 25
+norm : 16
+pardoner : 5
+pic : 10
+plaices : 1
+potables : 15
+pythons : 6
+recoining : 19
+recriminator : 12
+reinsurer : 102
+second : 7
+verticals : 11
+wattles : 4
+
+C.size() = 26
+ambusher : 105
+cantling : 23
+cohabit : 21
+crosby : 3
+cul : 104
+depressants : 13
+deschooler : 101
+dissocialised : 20
+forms : 8
+glagolitic : 103
+glamorized : 24
+hemiolia : 22
+impales : 9
+millesimal : 25
+norm : 16
+pardoner : 5
+pic : 10
+plaices : 1
+potables : 15
+pythons : 6
+recoining : 19
+recriminator : 12
+reinsurer : 102
+second : 7
+verticals : 11
+wattles : 4
+
+A==B is false
+B==C is true
+C==A is false
+
+22
+220
+
+A.size() = 26
+ambusher : 2
+cantling : 23
+cohabit : 21
+crosby : 3
+cul : 14
+depressants : 13
+deschooler : 18
+dissocialised : 20
+forms : 8
+glagolitic : 26
+glamorized : 24
+hemiolia : 220
+impales : 9
+millesimal : 25
+norm : 16
+pardoner : 5
+pic : 10
+plaices : 1
+potables : 15
+pythons : 6
+recoining : 19
+recriminator : 12
+reinsurer : 17
+second : 7
+verticals : 11
+wattles : 4
+
+plaices : 1
+ambusher : 2
+crosby : 3
+cohabit : 21
+cantling : 23
+pardoner : 5
+forms : 8
+depressants : 13
+cul : 14
+deschooler : 18
+dissocialised : 20
+impales : 9
+hemiolia : 220
+glamorized : 24
+glagolitic : 26
+norm : 16
+millesimal : 25
+pic : 10
+wattles : 4
+pythons : 6
+potables : 15
+second : 7
+recriminator : 12
+recoining : 19
+reinsurer : 17
+verticals : 11
+
+removing second from Dictionary A
+removing forms from Dictionary A
+removing impales from Dictionary A
+removing pic from Dictionary A
+removing verticals from Dictionary A
+removing recriminator from Dictionary A
+removing depressants from Dictionary A
+removing cul from Dictionary A
+removing potables from Dictionary A
+removing norm from Dictionary A
+removing reinsurer from Dictionary A
+removing deschooler from Dictionary A
+removing recoining from Dictionary A
+after remove loop
+A.size() = 13
+ambusher : 2
+cantling : 23
+cohabit : 21
+crosby : 3
+dissocialised : 20
+glagolitic : 26
+glamorized : 24
+hemiolia : 220
+millesimal : 25
+pardoner : 5
+plaices : 1
+pythons : 6
+wattles : 4
+
+plaices : 1
+ambusher : 2
+crosby : 3
+cohabit : 21
+cantling : 23
+pardoner : 5
+glagolitic : 26
+dissocialised : 20
+millesimal : 25
+hemiolia : 220
+glamorized : 24
+wattles : 4
+pythons : 6
+
+(ambusher, 2) (cantling, 23) (cohabit, 21) (crosby, 3) (dissocialised, 20) (glagolitic, 26) (glamorized, 24) (hemiolia, 220) (millesimal, 25) (pardoner, 5) (plaices, 1) (pythons, 6) (wattles, 4) 
+
+(wattles, 4) (pythons, 6) (plaices, 1) (pardoner, 5) (millesimal, 25) (hemiolia, 220) (glamorized, 24) (glagolitic, 26) (dissocialised, 20) (crosby, 3) (cohabit, 21) (cantling, 23) (ambusher, 2) 
+
+Dictionary: getValue(): key "blah" does not exist
+   continuing without interruption
+Dictionary: remove(): key "blah" does not exist
+   continuing without interruption
+currentKey() pre-condition: contains(k)
+   continuing without interruption
+getValue() pre-condition: contains(k)
+   continuing without interruption
+Dictionary does not exist
+   continuing without interruption
+Dictionary does not exist
+   continuing without interruption
+
